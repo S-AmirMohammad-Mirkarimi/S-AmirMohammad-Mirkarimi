@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Pedram%20Mirkarimi&fontSize=80&animation=fadeIn&fontAlignY=38" />
+  <img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Pedram%20Mirkarimi&fontSize=80&animation=fadeIn&fontAlignY=38](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedram%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Back-End%20Developer&descAlignY=60&descSize=30&section=header&fontSize=90)" />
 </div>
 
 <h1 align="center">
-  Hi there, I'm Pedram Mirkarimi!
+  Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -13,12 +13,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Pedram+Mirkarimi;Back-End+Developer;JavaScript+Enthusiast;Turning+Ideas+Into+Code" />
 </p>
 
+<br>
+
 ---
 
 ## 👨‍💻 About Me
 - 🔭 Currently improving my **JavaScript** and **Backend** skills
 - 🌱 Learning **Node.js**, **APIs**, and modern web development
 - 🎯 Goal: Become a strong Full-Stack JS developer
+
+<br>
 
 ---
 
@@ -64,6 +68,8 @@ Responsive template built with HTML/CSS/JS.
 
 👉 *Check them in my pinned repositories!*
 
+<br>
+
 ---
 
 ## 📊 GitHub Stats
@@ -73,12 +79,16 @@ Responsive template built with HTML/CSS/JS.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedram-Mirkarimi&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 </p>
 
+<br>
+
 ---
 
 ## 📫 Contact Me
 
-- Email: **mirkarimi.amirmohammad@gmail.com.com**  
-- Portfolio Website: *coming soon*  
+- Email: **mirkarimi.amirmohammad@gmail.com**
+- Portfolio Website: *coming soon*
+
+<br>
 
 ---
 
