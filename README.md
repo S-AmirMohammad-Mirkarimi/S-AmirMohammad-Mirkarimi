@@ -144,3 +144,76 @@ Responsive template built with HTML/CSS/JS.
 </p>
 
 <br>
+
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Pedram%20Mirkarimi&fontSize=80&animation=fadeIn&fontAlignY=38" />
+</div>
+
+<h1 align="center">
+  Hi there, I'm Pedram Mirkarimi!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<p align="center">
+  A passionate and creative developer with a strong focus on <strong>Backend Development</strong>, turning ideas into clean and efficient code.
+  <br />
+  I am actively seeking an <strong>Ausbildung (Vocational Training)</strong> position as an <strong>IT Specialist for Application Development (Fachinformatiker für Anwendungsentwicklung)</strong>.
+</p>
+
+<div align="center">
+  <a href="mailto:mirkarimi.amirmohammad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- IMPORTANT: Add your LinkedIn profile link here -->
+  <!-- <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> -->
+</div>
+
+<hr>
+
+### 👨‍💻 About Me
+
+I am a self-taught and disciplined programmer with a deep passion for problem-solving and learning new technologies. My primary focus is on **JavaScript** and the **Node.js** ecosystem, and I enjoy building powerful and scalable APIs. I am always improving my skills to deliver high-quality, high-performance products.
+
+- 🔭 I’m currently focused on personal projects to strengthen my **Backend** skills.
+- 🌱 I’m currently learning more about **Express.js**, **MongoDB**, and the principles of **RESTful API** design.
+- 🎯 My primary goal: To find an **Ausbildung** position to kickstart my professional career in Germany.
+- ⚡️ Interests: Web Development, Software Architecture, and DevOps.
+
+<br>
+
+### 🛠️ Skills & Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,git,github,vscode,postman,npm" />
+  </a>
+</p>
+
+<br>
+
+### 🚀 Featured Projects
+
+Here are a few projects that showcase my skills:
+
+| Project | Description | Key Technologies | Link |
+| :--- | :--- | :--- | :--- |
+| 💼 **Jobs API** | A complete RESTful API for managing job postings, featuring user authentication (JWT), password encryption, and full CRUD operations. | `Node.js`, `Express`, `MongoDB` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Jobs-API) |
+| 📝 **Task Manager API** | A comprehensive API for a task manager application, allowing users to securely create, read, update, and delete their tasks. | `Node.js`, `Express`, `MongoDB` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Task-Manager-API) |
+| 💬 **Real-time Chat App** | A real-time chat application built from scratch with WebSockets, enabling instant bi-directional communication between users. | `Node.js`, `Socket.IO`, `JavaScript` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Chat-App) |
+
+<br>
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Pedram-Mirkarimi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedram-Mirkarimi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<br>
