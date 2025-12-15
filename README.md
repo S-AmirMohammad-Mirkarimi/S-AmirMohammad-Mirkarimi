@@ -57,7 +57,7 @@ Here are a few projects that showcase my skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i="instagram,twitter,gmail />
+    <img src="https://skillicons.dev/icons?i=instagram,twitter,gmail" />
   </a>
 </p>
 
