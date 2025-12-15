@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Your+Ideas+Into+Code;Building+the+Backend+of+the+Web;Crafting+Scalable+%26+Robust+Solutions;Code+is+my+language%2C+and+I+speak+it+fluently;Let's+build+something+amazing+together!" alt="Typing SVG" /></a>
 </div>
 
----
+</br>
 
 ## 👨‍💻 About Me
 - 🔭 Currently improving my **JavaScript** and **Backend** skills
@@ -48,12 +48,6 @@ Here are a few projects that showcase my skills:
   <img src="https://github-readme-stats.vercel.app/api?username=Pedram-Mirkarimi&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedram-Mirkarimi&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 </p>
-
----
-
-## 📫 Contact Me
-
-- E-Mail: **mirkarimi.amirmohammad@gmail.com**
 
 ---
 
