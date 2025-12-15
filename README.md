@@ -6,9 +6,9 @@
   <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Your+Ideas+Into+Code;Building+the+Backend+of+the+Web;Crafting+Scalable+%26+Robust+Solutions;Code+is+my+language%2C+and+I+speak+it+fluently;Let's+build+something+amazing+together!" />
 </p>
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Your+Ideas+Into+Code;Building+the+Backend+of+the+Web;Crafting+Scalable+%26+Robust+Solutions;Code+is+my+language%2C+and+I+speak+it+fluently;Let's+build+something+amazing+together!" alt="Typing SVG" /></a>
 
-<br>
+---
 
 ## 👨‍💻 About Me
 - 🔭 Currently improving my **JavaScript** and **Backend** skills
@@ -16,8 +16,6 @@
 - 🎯 Goal: Become a strong Full-Stack JS developer
 
 ---
-
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -29,8 +27,6 @@
 
 ---
 
-<br>
-
 # 📌 Featured Projects
 
 Here are a few projects that showcase my skills:
@@ -40,8 +36,6 @@ Here are a few projects that showcase my skills:
 | 💼 **Jobs API** | A complete RESTful API for managing job postings, featuring user authentication (JWT), password encryption, and full CRUD operations. | `Node.js`, `Express`, `MongoDB` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Jobs-API) |
 | 📝 **Task Manager API** | A comprehensive API for a task manager application, allowing users to securely create, read, update, and delete their tasks. | `Node.js`, `Express`, `MongoDB` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Task-Manager-API) |
 | 💬 **Real-time Chat App** | A real-time chat application built from scratch with WebSockets, enabling instant bi-directional communication between users. | `Node.js`, `Socket.IO`, `JavaScript` | [🔗 Repo](https://github.com/Pedram-Mirkarimi/Chat-App) |
-
-<br>
 
 
 ### 💬 Chat-App  
@@ -63,8 +57,6 @@ Responsive template built with HTML/CSS/JS.
 
 ---
 
-<br>
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -74,16 +66,12 @@ Responsive template built with HTML/CSS/JS.
 
 ---
 
-<br>
-
 ## 📫 Contact Me
 
 - Email: **mirkarimi.amirmohammad@gmail.com**
 - Portfolio Website: *coming soon*
 
 ---
-
-<br>
 
 <p align="center">
  ⭐️ *Thanks for visiting my GitHub profile!*  
