@@ -41,7 +41,7 @@
 | Project | What it is | Key Tech | Repo |
 |---|---|---|---|
 | 💬 **PulseChat** | Real-time group chat web app with live events | `Node.js`, `Express`, `Socket.io`, `MongoDB`, `EJS` | 🔗 https://github.com/Pedram-Mirkarimi/pulsechat |
-| ✅ **Task Manager API** | REST API for users & tasks with authentication | `Node.js`, `Express`, `MongoDB`, `JWT` | 🔗 https://github.com/Pedram-Mirkarimi/taskflow-api |
+| ✅ **TaskFlow API** | REST API for users & tasks with authentication | `Node.js`, `Express`, `MongoDB`, `JWT` | 🔗 https://github.com/Pedram-Mirkarimi/taskflow-api |
 | 🌤️ **WeatherNow Web** | Weather search web app (address → forecast) | `Node.js`, `Express`, `hbs`, `Mapbox`, `OpenWeather` | 🔗 https://github.com/Pedram-Mirkarimi/weathernow-web |
 | 🗒️ **NoteCLI** | Command-line notes manager | `Node.js`, `yargs`, `chalk` | 🔗 https://github.com/Pedram-Mirkarimi/notecli |
 | 🌐 **CleanLanding** | Responsive static website template | `HTML`, `CSS`, `JavaScript` | 🔗 https://github.com/Pedram-Mirkarimi/cleanlanding-template |
