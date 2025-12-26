@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedram%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Ausbildung%20(FIAE)%20Applicant%20%E2%80%94%20Start%2008%2F2026&descAlignY=60&descSize=30&section=header&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedram%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Ausbildung%20(FIAE)%20Applicant%20%E2%80%94%20Start%20ab%2008%2F2026&descAlignY=60&descSize=28&section=header&fontSize=72" />
   
-**Ausbildung (FIAE) applicant (from 08/2026)** — learning-focused repos for **Web/Backend basics** with **Node.js**.
+<b>Ausbildung (FIAE) applicant (from 08/2026)</b> — learning-focused repos for <b>Web/Backend basics</b> with <b>Node.js</b>.
+<br/>
+<i>Most repositories are learning/practice projects (Lern-/Übungsprojekte).</i>
+
+<br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-Practice-000000?logo=express&logoColor=white)
@@ -16,35 +20,45 @@
 ## 🧭 About
 
 - 🎓 Applying for an **Ausbildung as Fachinformatiker/in für Anwendungsentwicklung (FIAE)** — **start from 08/2026**
-- 🔭 Building **learning/practice projects** with **Node.js / Express**
+- 🧩 Building **learning/practice projects** with **Node.js / Express**
 - 🌱 Improving **REST APIs**, **MongoDB/SQL**, and **project structure**
-- ✅ I like projects that are **clean, practical, and easy to run**
-
-> Note: Most repositories are **learning/practice projects** (Lern-/Übungsprojekte).
+- 🗣️ German: **telc B2** (for Berufsschule & workplace communication)
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Core Stack (learning focus)
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,html,css,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,git,github,vscode" />
   </a>
 </div>
 
+<p align="center">
+  SQL (basic) • REST APIs • Learning-focused projects
+</p>
+
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured learning projects
+> Start with the pinned repositories.
 
-> Selected **learning projects** with clear setup instructions.
+| Project | What it is | Repo |
+|---|---|---|
+| 💬 **pulsechat** | Realtime chat (learning project) | 🔗 https://github.com/Pedram-Mirkarimi/pulsechat |
+| ✅ **taskflow-api** | Task manager REST API (learning project) | 🔗 https://github.com/Pedram-Mirkarimi/taskflow-api |
+| 🌤️ **weathernow-web** | Weather web app using external APIs (learning project) | 🔗 https://github.com/Pedram-Mirkarimi/weathernow-web |
 
-### ⭐ Project Highlights
+<details>
+<summary><b>More projects</b></summary>
 
-| Project | What it is | Key Tech | Repo |
-|---|---|---|---|
-| 💬 **pulsechat** | Learning project: realtime chat (login, group chat) | `Node.js`, `Express`, `Socket.io`, `MongoDB` | 🔗 https://github.com/Pedram-Mirkarimi/pulsechat |
-| ✅ **taskflow-api** | Learning project: task manager REST API (login/CRUD, filters) | `Node.js`, `Express`, `MongoDB` | 🔗 https://github.com/Pedram-Mirkarimi/taskflow-api |
-| 🌤️ **weathernow-web** | Learning project: weather web app using external APIs | `Node.js`, `Express`, `Mapbox`, `OpenWeather` | 🔗 https://github.com/Pedram-Mirkarimi/weathernow-web |
+| Project | What it is | Repo |
+|---|---|---|
+| 🗒️ **notecli** | CLI notes manager (learning project) | 🔗 https://github.com/Pedram-Mirkarimi/notecli |
+| 🌐 **cleanlanding-template** | Responsive static landing page template | 🔗 https://github.com/Pedram-Mirkarimi/cleanlanding-template |
+| 📚 **libradesk** | Desktop library management system (C# WinForms) | 🔗 https://github.com/Pedram-Mirkarimi/libradesk |
+
+</details>
 
 ---
 
@@ -62,10 +76,4 @@
 ---
 
 ## 🤝 Contact
-
-- Email: mirkarimi.amirmohammad@gmail.com
-- GitHub: https://github.com/Pedram-Mirkarimi
-
-<div align="center">
-⭐️ Thanks for visiting my GitHub profile ⭐️
-</div>
+- Email: **mirkarimi.amirmohammad@gmail.com**
