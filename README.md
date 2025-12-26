@@ -1,24 +1,42 @@
-# Hi, I’m AmirMohammad Mirkarimi 👋
+<h1 align="center">Hi, I’m AmirMohammad Mirkarimi 👋</h1>
 
-💡 **Goal (2026):** Applying for an **Ausbildung (FIAE – Application Development)** in Germany (**start from 08/2026**).  
-🧩 Most repos here are **learning/practice projects** (Lern-/Übungsprojekte) while I build solid fundamentals.
+<p align="center">
+  <b>Ausbildung (FIAE) applicant • Start: ab 08/2026</b><br/>
+  Lern-/Übungsprojekte in Web/Backend • German: <b>telc B2</b>
+</p>
 
----
+<p align="center">
+  <a href="mailto:mirkarimi.amirmohammad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mirkarimi.amirmohammad%40gmail.com-black"></a>
+  <a href="https://github.com/Pedram-Mirkarimi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Pedram--Mirkarimi-black?logo=github"></a>
+</p>
 
-## 🇩🇪 Kurz auf Deutsch
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇩🇪 Kurz auf Deutsch
 - 🎓 Bewerbung für **Ausbildung FIAE** (Start: **ab 08/2026**)
-- 🛠️ Lernfokus: **JavaScript**, **Node.js**, **MongoDB/SQL**, **Git**
+- 🧩 Die meisten Repos hier sind **Lern-/Übungsprojekte**
 - 🗣️ Deutsch: **telc B2**
 
-## 🇬🇧 Short in English
-- 🎓 Applying for an **FIAE apprenticeship (Ausbildung)** (start: **from 08/2026**)  
-- 🛠️ Learning focus: **JavaScript**, **Node.js**, **MongoDB/SQL**, **Git**  
+</td>
+<td width="50%" valign="top">
+
+### 🇬🇧 Short in English
+- 🎓 Applying for an **FIAE apprenticeship (Ausbildung)** (start: **from 08/2026**)
+- 🧩 Most repos here are **learning/practice projects**
 - 🗣️ German: **telc B2**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured learning projects
-> (See pinned repositories for the main projects)
+## ✨ Featured learning projects
+<p><i>(See pinned repositories for the main projects)</i></p>
 
 - **taskflow-api** — Practice REST API for task management (login/CRUD, filters)
 - **pulsechat** — Practice realtime chat (login, group chat)
@@ -26,16 +44,18 @@
 
 ---
 
-## 🧰 Tech I’m learning
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-black?logo=database)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+## 🧰 Tech I’m learning (core stack)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-black?logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-black?logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-black?logo=mongodb" />
+  <img src="https://img.shields.io/badge/SQL-black?logo=database" />
+  <img src="https://img.shields.io/badge/Git-black?logo=git" />
+</p>
 
 ---
 
-## 📫 Contact
-- Email: **mirkarimi.amirmohammad@gmail.com**
+## 🧭 Notes
+- I keep things simple on purpose: **learning projects > polished claims**.
+- If you’re reviewing my GitHub for an Ausbildung: start with the **pinned repos**.
