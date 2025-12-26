@@ -1,17 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedram%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Ausbildung%20(FIAE)%20Applicant%20%E2%80%94%20Start%20ab%2008%2F2026&descAlignY=60&descSize=28&section=header&fontSize=72" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedram%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Back-End%20Developer&descAlignY=60&descSize=30&section=header&fontSize=90" />
   
-<b>Ausbildung (FIAE) applicant (from 08/2026)</b> — learning-focused repos for <b>Web/Backend basics</b> with <b>Node.js</b>.
-<br/>
-<i>Most repositories are learning/practice projects (Lern-/Übungsprojekte).</i>
+**Back-End Developer** focused on building **REST APIs**, **real-time apps**, and clean backend architecture with **Node.js**.
 
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-Practice-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Practice-47A248?logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/Git-Workflow-F05032?logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-API-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=000)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
 
 </div>
 
@@ -19,46 +15,37 @@
 
 ## 🧭 About
 
-- 🎓 Applying for an **Ausbildung as Fachinformatiker/in für Anwendungsentwicklung (FIAE)** — **start from 08/2026**
-- 🧩 Building **learning/practice projects** with **Node.js / Express**
-- 🌱 Improving **REST APIs**, **MongoDB/SQL**, and **project structure**
-- 🗣️ German: **telc B2** (for Berufsschule & workplace communication)
+- 🔭 Building backend projects with **Node.js / Express**
+- 🌱 Improving **API design**, **MongoDB**, and **project structure**
+- 🎯 Goal: Become a strong **Full-Stack JavaScript Developer**
+- ✅ I like projects that are **clean, practical, and easy to run**
 
 ---
 
-## 🧰 Core Stack (learning focus)
+## 🧰 Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,html,css,react,git,github,npm,postman,vscode" />
   </a>
 </div>
 
-<p align="center">
-  SQL (basic) • REST APIs • Learning-focused projects
-</p>
-
 ---
 
-## 🚀 Featured learning projects
-> Start with the pinned repositories.
+## 🚀 Featured Projects
 
-| Project | What it is | Repo |
-|---|---|---|
-| 💬 **pulsechat** | Realtime chat (learning project) | 🔗 https://github.com/Pedram-Mirkarimi/pulsechat |
-| ✅ **taskflow-api** | Task manager REST API (learning project) | 🔗 https://github.com/Pedram-Mirkarimi/taskflow-api |
-| 🌤️ **weathernow-web** | Weather web app using external APIs (learning project) | 🔗 https://github.com/Pedram-Mirkarimi/weathernow-web |
+> Portfolio projects with clean structure and clear setup instructions.
 
-<details>
-<summary><b>More projects</b></summary>
+### ⭐ Project Highlights
 
-| Project | What it is | Repo |
-|---|---|---|
-| 🗒️ **notecli** | CLI notes manager (learning project) | 🔗 https://github.com/Pedram-Mirkarimi/notecli |
-| 🌐 **cleanlanding-template** | Responsive static landing page template | 🔗 https://github.com/Pedram-Mirkarimi/cleanlanding-template |
-| 📚 **libradesk** | Desktop library management system (C# WinForms) | 🔗 https://github.com/Pedram-Mirkarimi/libradesk |
-
-</details>
+| Project | What it is | Key Tech | Repo |
+|---|---|---|---|
+| 💬 **PulseChat** | Real-time group chat web app with live events | `Node.js`, `Express`, `Socket.io`, `MongoDB`, `EJS` | 🔗 https://github.com/Pedram-Mirkarimi/pulsechat |
+| ✅ **Task Manager API** | REST API for users & tasks with authentication | `Node.js`, `Express`, `MongoDB`, `JWT` | 🔗 https://github.com/Pedram-Mirkarimi/taskflow-api |
+| 🌤️ **WeatherNow Web** | Weather search web app (address → forecast) | `Node.js`, `Express`, `hbs`, `Mapbox`, `OpenWeather` | 🔗 https://github.com/Pedram-Mirkarimi/weathernow-web |
+| 🗒️ **NoteCLI** | Command-line notes manager | `Node.js`, `yargs`, `chalk` | 🔗 https://github.com/Pedram-Mirkarimi/notecli |
+| 🌐 **CleanLanding** | Responsive static website template | `HTML`, `CSS`, `JavaScript` | 🔗 https://github.com/Pedram-Mirkarimi/cleanlanding-template |
+| 📚 **LibraDesk** | Desktop library management system | `C# WinForms`, `SQL Server` | 🔗 https://github.com/Pedram-Mirkarimi/libradesk |
 
 ---
 
@@ -76,4 +63,10 @@
 ---
 
 ## 🤝 Contact
-- Email: **mirkarimi.amirmohammad@gmail.com**
+
+- GitHub: https://github.com/Pedram-Mirkarimi
+- Repos: https://github.com/Pedram-Mirkarimi?tab=repositories
+
+<div align="center">
+⭐️Thanks for visiting my GitHub profile⭐️
+</div>
