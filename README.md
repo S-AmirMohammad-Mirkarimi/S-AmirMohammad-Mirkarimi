@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm&reversal=true&desc=S.%20AmirMohammad%20Mirkarimi&fontSize=80&fontAlign=17&textBg=false&fontAlignY=25&descSize=60&animation=fadeIn&descAlignY=50" />
-
-**Small projects, clear documentation**<br/>
-Clean setup • readable code • practical web & backend fundamentals
 </div>
-
----
 
 ## 🔎 About Me
 - 🧩 I enjoy building projects (from idea → code → documentation)
