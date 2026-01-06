@@ -23,7 +23,6 @@ Clean setup • readable code • practical web & backend fundamentals
     <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-ODM-4d0000">
     <img alt="JWT" src="https://img.shields.io/badge/JWT-Auth-111111?logo=jsonwebtokens&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white">
   </p>
 </div>
 
