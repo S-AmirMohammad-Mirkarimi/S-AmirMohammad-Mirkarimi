@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=S.%20AmirMohammad%20Mirkarimi&reversal=true&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Ausbildung%20(FIAE)%20Applicant&descAlignY=60&descSize=28&section=header&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm&reversal=true&desc=S.%20AmirMohammad%20Mirkarimi&fontSize=80&fontAlign=17&textBg=false&fontAlignY=25&descSize=60&animation=fadeIn&descAlignY=50" />
 
-**Portfolio projects for Ausbildung (Fachinformatiker für Anwendungsentwicklung)**<br/>
-Focus: clean, readable code • learning-by-building • practical web & backend fundamentals
+**Small projects, clear documentation**<br/>
+Clean setup • readable code • practical web & backend fundamentals
 </div>
 
 ---
 
 ## 🔎 About Me
-- 🎯 Goal: Start an **Ausbildung as Fachinformatiker für Anwendungsentwicklung** in Germany
-- 🧩 I enjoy building small-to-medium projects end-to-end (from idea → code → documentation)
-- ✅ I keep projects **portfolio-friendly** (clear README, simple setup, no “enterprise/production” claims)
+- 🧩 I enjoy building projects (from idea → code → documentation)
+- 🎯 My goal is to grow in a professional environment, so my repos stay clean, simple, and easy to run.
 
 ---
 
