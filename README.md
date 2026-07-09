@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm&reversal=true&desc=S.%20AmirMohammad%20Mirkarimi&fontSize=30&fontAlign=8&textBg=false&fontAlignY=25&descSize=60&animation=fadeIn&descAlignY=50" />
 </div>
 
-
 ## 🚀 About Me
 
 🎓 I have a **basic academic background** in Software Engineering Technology, but honestly, most of what I know so far is still at a foundational level. 📚
