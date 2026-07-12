@@ -4,8 +4,6 @@
 
 
 ## 🚀 About Me
-🎓 I have a **basic academic background** in Software Engineering Technology, but honestly, most of what I know so far is still at a foundational level. 📚
-
 🌱 I'm a beginner with a lot of **motivation and curiosity** — always excited to practice, make mistakes, learn from them, and slowly grow into a capable developer. One line of code at a time! 💻
 
 😊 I believe the best way to truly learn programming is through hands-on experience, mentorship, and real projects — which is exactly why the Ausbildung path excites me so much.
@@ -18,9 +16,8 @@
 ## 🛠️ Tech Stack & Skills (Beginner Level 🌱)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,cs,git,vscode&theme=light" />
   </a>
-</p>
 
 
 ## 💼 My Practice Projects
@@ -42,6 +39,13 @@ A simple Java console app to practice basic OOP concepts and File I/O.
 - ✅ Add/remove/view items
 - ✅ Save & load data using file storage (CSV format)
 - ✅ Simple menu-driven console interface
+
+### 🇩🇪 [German Vocabulary Trainer](https://github.com/S-AmirMohammad-Mirkarimi/german-vocabulary-trainer)
+A C# console app combining my SQL learning with my German language practice.
+`C#` `SQL Server` `ADO.NET`
+- ✅ Add/view/delete vocabulary words (German ↔ English & Persian)
+- ✅ Interactive quiz mode with score tracking
+- ✅ UTF-8 handling for proper Persian text display
 
 
 ## 📫 Let's Connect
