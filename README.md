@@ -13,40 +13,33 @@
 > 🇩🇪 My real goal right now is to move to **Germany** through the **Ausbildung** pathway and train as a **Fachinformatiker für Anwendungsentwicklung** (IT Specialist for Application Development) — starting fresh, learning **step by step**, and building real, practical skills in a genuine German work environment. 🏗️
 
 
-## 🛠️ Tech Stack & Skills (Beginner Level 🌱)
+## 🛠️ Tech Stack & Skills (Basic Knowledge)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,cs,git,vscode&theme=light" />
   </a>
 
+---
 
-## 💼 My Practice Projects
-### 🌐 [My Portfolio](https://github.com/S-AmirMohammad-Mirkarimi/my-portfolio)
-My very first portfolio project — built to practice basic web design and layout skills.
-`HTML5` `CSS3` `JavaScript`
-- ✅ Navigation bar, About Me, Skills, Contact Form sections
-- ✅ Simple JS interaction (click counter)
+### 📌 Featured Projects
 
-### 🧮 [Simple Calculator](https://github.com/S-AmirMohammad-Mirkarimi/simple-calculator)
-A basic calculator app to practice DOM manipulation and event handling with vanilla JavaScript.
-`HTML5` `CSS3 (Grid)` `JavaScript`
-- ✅ Basic operations, decimal support, backspace, error handling
-- ✅ Simple UI built with CSS Grid
+| Project | Description | Tech |
+|---|---|---|
+| 💼 [My Portfolio](https://github.com/S-AmirMohammad-Mirkarimi/my-portfolio) | My personal portfolio website, showcasing my projects and journey toward Germany | `HTML` `CSS` `JavaScript` |
+| 🇩🇪 [German Vocabulary Trainer](https://github.com/S-AmirMohammad-Mirkarimi/german-vocabulary-trainer) | Console app with SQL Server for managing and quizzing German vocabulary | `C#` `SQL Server` `ADO.NET` |
+| 🛒 [Shopping List Manager](https://github.com/S-AmirMohammad-Mirkarimi/shopping-list-manager) | Java console app for managing a shopping list with file storage | `Java` `File I/O` |
+| 🔢 [Simple Calculator](https://github.com/S-AmirMohammad-Mirkarimi/simple-calculator) | A calculator built with HTML, CSS, and JavaScript | `HTML` `CSS` `JavaScript` |
 
-### 🛒 [Shopping List Manager](https://github.com/S-AmirMohammad-Mirkarimi/shopping-list-manager)
-A simple Java console app to practice basic OOP concepts and File I/O.
-`Java` `OOP` `File I/O`
-- ✅ Add/remove/view items
-- ✅ Save & load data using file storage (CSV format)
-- ✅ Simple menu-driven console interface
+---
 
-### 🇩🇪 [German Vocabulary Trainer](https://github.com/S-AmirMohammad-Mirkarimi/german-vocabulary-trainer)
-A C# console app combining my SQL learning with my German language practice.
-`C#` `SQL Server` `ADO.NET`
-- ✅ Add/view/delete vocabulary words (German ↔ English & Persian)
-- ✅ Interactive quiz mode with score tracking
-- ✅ UTF-8 handling for proper Persian text display
+### 📫 Get in Touch
 
+- ✉️ Email: [mirkarimi.amirmohammad@gmail.com](mailto:mirkarimi.amirmohammad@gmail.com)
+- 🐙 GitHub: [S-AmirMohammad-Mirkarimi](https://github.com/S-AmirMohammad-Mirkarimi)
+- 🌐 Portfolio: [Live Website](https://s-amirmohammad-mirkarimi.github.io/my-portfolio/)
 
-## 📫 Let's Connect
-E-Mail: <a href="mailto:mirkarimi.amirmohammad@gmail.com">Send me Message!</a>
+---
+
+<p align="center">
+⭐️Currently learning, building, and preparing for my Ausbildung journey to Germany.⭐️
+</p>
